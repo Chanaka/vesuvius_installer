@@ -5,7 +5,7 @@
     
     <testsuites>
         <testsuite name="Installer Module Test Suite">
-            <file>test/mod/inw/inw_main_test.php</file>
+            <file>test/mod/install/install_main_test.php</file>
         </testsuite>
     </testsuites>
     
